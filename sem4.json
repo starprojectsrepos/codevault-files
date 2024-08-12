@@ -1,0 +1,41 @@
+{
+    "semester": "4",
+    "Courses": [
+        {
+            "courseName": "Analysis and Design of Algorithms",
+            "courseCode": "BCS402",
+            "credit": "3",
+            "lab": true
+        },
+        {
+            "courseName": "Computer Graphics and Visualization",
+            "courseCode": "BCG402",
+            "credit": "4",
+            "lab": true
+        },
+        {
+            "courseName": "Database Management System",
+            "courseCode": "BCS403",
+            "credit": "4",
+            "lab": true
+        },
+        {
+            "courseName": "Graph Theory",
+            "courseCode": "BCS405B",
+            "credit": "3",
+            "lab": false
+        },
+        {
+            "courseName": "Mobile First Web design with W3.CSS",
+            "courseCode": "BCGL456C",
+            "credit": "1",
+            "lab": true
+        },
+        {
+            "courseName": "Universal Human Values",
+            "courseCode": "BUHK408",
+            "credit": "1",
+            "lab": true
+        }
+    ]
+}
