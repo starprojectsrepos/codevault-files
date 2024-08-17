@@ -3,7 +3,7 @@
     "Courses": [
         {
             "courseName": "Analysis and Design of Algorithms",
-            "courseCode": "BCS402",
+            "courseCode": "BCS401",
             "credit": "3",
             "lab": true
         },
