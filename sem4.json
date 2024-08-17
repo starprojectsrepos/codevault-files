@@ -26,6 +26,12 @@
             "lab": false
         },
         {
+            "courseName": "Biology for Engineers",
+            "courseCode": "BBOC407",
+            "credit": "2",
+            "lab": true
+        },
+        {
             "courseName": "Mobile First Web design with W3.CSS",
             "courseCode": "BCGL456C",
             "credit": "1",
